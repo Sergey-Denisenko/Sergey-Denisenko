@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome 👋
+### My name is Sergey Denisenko. I am frontend developer.
+### Thank you for your interest in my github account
 
 <!--
 **Sergey-Denisenko/Sergey-Denisenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
