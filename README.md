@@ -1,5 +1,5 @@
 ### Welcome 👋
-### My name is Sergey Denisenko. I am frontend developer.
+### My name is Sergey Denisenko. I am a frontend developer.
 
 #### Thank you for your interest in my github account
 <!--
@@ -14,7 +14,7 @@ This is the public place of my skills improvement as a frontend developer.
 
 The main goals for the near future:  
 :arrow_up: &nbsp; to improve my skills and development quality  
-:pencil2: &nbsp; to learn Redux, TypeScript  
+:pencil2: &nbsp; to learn Redux, TypeScript, ect.  
 :muscle: &nbsp; to join to the development team of an interesting project  
 
 
@@ -61,7 +61,7 @@ Stack and tools used in development:
     <td align="center"><img src="./images/Postman_logo.png" height="40px" alt="Postman"></td>
     <td align="center"><img src="./images/Figma-1-logo.png" height="40px" alt="Figma"></td>
     <td align="center"><img src="./images/Logo_BEM.png" height="40px" alt="BEM"></td>
-    <td align="center">to be continued...</td>
+    <td align="center">to be continued... :thumbsup:</td>
   </tr>
 </table>
 
