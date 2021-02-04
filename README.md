@@ -76,6 +76,20 @@ Stack and tools used in development:
 | - | - | - | - | - | - |
 | Git | GitHub | Bash | Visual Studio Code | ESLint | ESLint|
 -->
+&nbsp;  
+
+| [![Sergey-Denisenko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergey-Denisenko&show_icons=1&hide=issues,contribs)](https://github.com/Sergey-Denisenko/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-Denisenko&layout=compact)](https://github.com/Sergey-Denisenko/github-readme-stats) |
+| - | - |
+
+<!--
+[![Sergey-Denisenko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergey-Denisenko&show_icons=1&hide=issues,contribs)](https://github.com/Sergey-Denisenko/github-readme-stats)
+-->
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-Denisenko&layout=compact)](https://github.com/Sergey-Denisenko/github-readme-stats)
+-->
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-Denisenko)](https://github.com/Sergey-Denisenko/github-readme-stats)
+-->
 
 <!--
 **Sergey-Denisenko/Sergey-Denisenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
