@@ -78,7 +78,8 @@ Stack and tools used in development:
 -->
 &nbsp;  
 
- [![Sergey-Denisenko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergey-Denisenko&show_icons=1&hide=issues,contribs)](https://github.com/Sergey-Denisenko/github-readme-stats) &nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-Denisenko&layout=compact)](https://github.com/Sergey-Denisenko/github-readme-stats) 
+| [![Sergey-Denisenko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergey-Denisenko&show_icons=1&hide=issues,contribs)](https://github.com/Sergey-Denisenko/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-Denisenko&layout=compact)](https://github.com/Sergey-Denisenko/github-readme-stats) |
+| - | - |
 
 <!--
 [![Sergey-Denisenko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergey-Denisenko&show_icons=1&hide=issues,contribs)](https://github.com/Sergey-Denisenko/github-readme-stats)
