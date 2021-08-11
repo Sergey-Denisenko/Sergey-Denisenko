@@ -7,7 +7,7 @@
 
 Основные цели на ближайшее время:  
 :arrow_up: &nbsp; повысить свой уровень и качество разработки  
-:pencil2: &nbsp; bpexbnm Redux, TypeScript  
+:pencil2: &nbsp; bpexbnm TypeScript  
 :muscle: &nbsp; к команде разработчиков интересного проекта  
 -->
 This is the public place of my skills improvement as a frontend developer.
@@ -42,33 +42,38 @@ Stack and tools used in development:
   <tr>
     <td style="pointer-events:none" align="center"><img src="./images/HTML5_logo_and_wordmark.svg" height="40px" alt="HTML"></td>
     <td align="center"><img src="./images/CSS3_logo_and_wordmark.svg" height="40px" alt="CSS"></td>
+    <td style="pointer-events:none" align="center"><img src="./images/Unofficial_JavaScript_logo_2.svg" height="40px" alt="JS"></td>
     <td align="center"><img src="./images/React-icon.svg" height="40px" alt="React"></td>
-    <td align="center"><img src="./images/Node.js_logo.svg" height="40px" alt="Node.js"></td>
   </tr>
   <tr>
+    <td align="center"><img src="./images/redux.svg" height="40px" alt="Redux"></td>   
+    <td align="center"><img src="./images/Node.js_logo.svg" height="40px" alt="Node.js"></td>
     <td align="center"><img src="./images/Expressjs.png" height="40px" alt="Express.js"></td>
     <td align="center"><img src="./images/Git-logo.svg" height="40px" alt="Git"></td>
+  </tr>
+  <tr>
     <td align="center"><img src="./images/GitHub_logo_2013.svg" height="40px" alt="GitHub"></td>
     <td align="center"><img src="./images/Gnu-bash-logo.svg" height="40px" alt="Bash"></td>
-  </tr>
-  <tr>
     <td align="center"><img src="./images/Visual_Studio_Code_1.35_icon.svg" height="40px" alt="Visual Studio Code"></td>
     <td align="center"><img src="./images/ESLint_logo.svg" height="40px" alt="ESLint"></td>
-    <td align="center"><img src="./images/MongoDB_Logo.svg" height="40px" alt="MongoDB"></td>
-    <td align="center"><img src="./images/Codepen-Black-Large.png" height="40px" alt="Codepen"></td>
   </tr>
   <tr>
+    <td align="center"><img src="./images/MongoDB_Logo.svg" height="40px" alt="MongoDB"></td>
+    <td align="center"><img src="./images/Codepen-Black-Large.png" height="40px" alt="Codepen"></td>
     <td align="center"><img src="./images/Postman_logo.png" height="40px" alt="Postman"></td>
     <td align="center"><img src="./images/Figma-1-logo.png" height="40px" alt="Figma"></td>
-    <td align="center"><img src="./images/Logo_BEM.png" height="40px" alt="BEM"></td>
-    <td align="center">to be continued... :thumbsup:</td>
   </tr>
+  <tr>
+  <td align="center"><img src="./images/Logo_BEM.png" height="40px" alt="BEM"></td>
+  <td align="center">to be continued... :thumbsup:</td>
+</tr>
 </table>
 
 <!--
-| <img src="./images/HTML5_logo_and_wordmark.svg" height="40px" alt="HTML"> | <img src="./images/CSS3_logo_and_wordmark.svg" height="40px" alt="CSS"> | <img src="./images/React-icon.svg" height="40px" alt="React"> | <img src="./images/Node.js_logo.svg" height="40px" alt="Node.js"> |
+| <img src="./images/HTML5_logo_and_wordmark.svg" height="40px" alt="HTML"> | <img src="./images/CSS3_logo_and_wordmark.svg" height="40px" alt="CSS"> | <img src="./images/Unofficial_JavaScript_logo_2.svg" height="40px" alt="JS"> | <img src="./images/React-icon.svg" height="40px" alt="React"> |
 | - | - | - | - |
-| <img src="./images/Expressjs.png" height="40px" alt="Express.js"> | <img src="./images/Git-logo.svg" height="40px" alt="Git"> | <img src="./images/GitHub_logo_2013.svg" height="40px" alt="GitHub"> | <img src="./images/Gnu-bash-logo.svg" height="40px" alt="Bash"> |
+| <img src="./images/redux.svg" height="40px" alt="Redux"> | <img src="./images/Node.js_logo.svg" height="40px" alt="Node.js"> | <img src="./images/Expressjs.png" height="40px" alt="Express.js"> | <img src="./images/Git-logo.svg" height="40px" alt="Git"> |
+| <img src="./images/GitHub_logo_2013.svg" height="40px" alt="GitHub"> | <img src="./images/Gnu-bash-logo.svg" height="40px" alt="Bash"> |
 | <p style="display: block; margin: 0 auto"><img src="./images/Visual_Studio_Code_1.35_icon.svg" height="40px" alt="Visual Studio Code"></p> | <img src="./images/ESLint_logo.svg" height="40px" alt="ESLint"> | <img src="./images/MongoDB_Logo.svg" height="40px" alt="MongoDB"> | <img src="./images/Codepen-Black-Large.png" height="40px" alt="Codepen"> |
 | <img src="./images/Postman_logo.png" height="40px" alt="Postman">  | <img src="./images/Figma-1-logo.png" height="40px" alt="Figma"> | - | to be continued... |
 
