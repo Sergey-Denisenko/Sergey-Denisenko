@@ -59,9 +59,9 @@ Stack and tools used in development:
   </tr>
   <tr>
     <td align="center"><img src="./images/MongoDB_Logo.svg" height="40px" alt="MongoDB"></td>
-    <td align="center"><img src="./images/Codepen-Black-Large.png" height="40px" alt="Codepen"></td>
     <td align="center"><img src="./images/Postman_logo.png" height="40px" alt="Postman"></td>
     <td align="center"><img src="./images/Figma-1-logo.png" height="40px" alt="Figma"></td>
+    <td align="center"><img src="./images/Codepen-Black-Large.png" height="40px" alt="Codepen"></td>
   </tr>
   <tr>
   <td align="center"><img src="./images/Logo_BEM.png" height="40px" alt="BEM"></td>
