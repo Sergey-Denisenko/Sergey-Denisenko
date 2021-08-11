@@ -17,11 +17,11 @@ The main goals for the near future:
 :pencil2: &nbsp; to learn TypeScript  
 :muscle: &nbsp; to join to the development team of an interesting project
 
-I am actively looking for a job in the direction of Web development.
-If you have any suggestions for cooperation, please write to:
-&nbsp; E-mail - sd.a2@yandex.ru
-&nbsp; Telegram - @SergeyDNSNK
-&nbsp; LinkedIn - http://linkedin.com/in/sergey-denisenko
+I am actively looking for a job in the direction of Web development.  
+If you have any suggestions for cooperation, please write to:  
+&nbsp; E-mail - sd.a2@yandex.ru  
+&nbsp; Telegram - @SergeyDNSNK  
+&nbsp; LinkedIn - http://linkedin.com/in/sergey-denisenko  
 
 
 <!--
