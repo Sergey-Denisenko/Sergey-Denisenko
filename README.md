@@ -19,9 +19,9 @@ The main goals for the near future:
 
 I am actively looking for a job in the direction of Web development.
 If you have any suggestions for cooperation, please write to:
-E-mail - sd.a2@yandex.ru
-Telegram - @SergeyDNSNK
-LinkedIn - http://linkedin.com/in/sergey-denisenko
+&nbsp; E-mail - sd.a2@yandex.ru
+&nbsp; Telegram - @SergeyDNSNK
+&nbsp; LinkedIn - http://linkedin.com/in/sergey-denisenko
 
 
 <!--
