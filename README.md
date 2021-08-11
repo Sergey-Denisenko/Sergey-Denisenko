@@ -14,8 +14,14 @@ This is the public place of my skills improvement as a frontend developer.
 
 The main goals for the near future:  
 :arrow_up: &nbsp; to improve my skills and development quality  
-:pencil2: &nbsp; to learn Redux, TypeScript, ect.  
-:muscle: &nbsp; to join to the development team of an interesting project  
+:pencil2: &nbsp; to learn TypeScript  
+:muscle: &nbsp; to join to the development team of an interesting project
+
+I am actively looking for a job in the direction of Web development.
+If you have any suggestions for cooperation, please write to:
+E-mail - sd.a2@yandex.ru
+Telegram - @SergeyDNSNK
+LinkedIn - http://linkedin.com/in/sergey-denisenko
 
 
 <!--
