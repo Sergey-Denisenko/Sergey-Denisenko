@@ -15,7 +15,7 @@ This is the public place of my skills improvement as a frontend developer.
 The main goals for the near future:  
 :arrow_up: &nbsp; to improve my skills and development quality  
 :pencil2: &nbsp; to learn TypeScript  
-:muscle: &nbsp; to join to the development team of an interesting project
+:muscle: &nbsp; to join to the cool development team
 
 I am actively looking for a job in the direction of Web development.  
 If you have any suggestions for cooperation, please write to:  
